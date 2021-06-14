@@ -8,4 +8,4 @@ Trained and tested on two datasets: Titanic and Alzheimer
 Titanic: titanic.csv
 
 Alzheimer: oasis_longitudinal.csv
-
+If it fails to show the notebook, please download the files.
